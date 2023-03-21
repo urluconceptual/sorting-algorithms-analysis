@@ -1,7 +1,7 @@
 # sorting-algorithms-analysis
-## 
+## First Data Structures homework
 
-First Data Structures homework. Implemented various sorting algorithms and compared their time complexities.
+Implemented various sorting algorithms and compared their time complexities.
 
 Compared algorithms:
 * Counting Sort
